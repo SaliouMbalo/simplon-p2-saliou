@@ -1,0 +1,36 @@
+body {
+	background-color: rgb(235, 235, 245);
+	width: 100%;
+	height: 80%;
+	}
+.entete {
+	background-color:rgb(17, 17, 160);
+	color: white;
+		 }
+#reseau {
+	margin-right:100px;
+		
+	 }
+	
+#text {
+	font-size: 9px;
+		
+	 }
+#numero_email {
+	width: 300px;
+		
+	 }
+#prenom {
+	width:120px;
+		
+	 }
+#nom_de_famille {
+		width: 120px;
+			
+		 }
+#nouveau_mdp {
+		width: 300px;	
+		 }
+.rond {
+		border-radius: 5px;	
+		 }
