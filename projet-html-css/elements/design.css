@@ -62,7 +62,6 @@ body {
      }
 #img{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: ;
     color: white;
     text-indent: 150px;
 }
@@ -135,9 +134,14 @@ body {
      }
 #footer1{
     margin-left: 0px;
-    width: 150px8;
+    width: 50px;
     float: left;
      }
 #footer2{
     float: right;
+    width: 1150px;
+    font-size: 12px;
+     }
+#creer_page{
+    font-size: 12px;
      }
