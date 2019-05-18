@@ -1,0 +1,72 @@
+body {
+    background-image: url(../img/nature1.jpg);
+}
+
+#nav {
+    margin-left: 70px;
+}
+
+#menu ul li {
+    width: 200px;
+}
+
+#menu ul,
+#menu li {
+    margin: 0;
+    padding: 0;
+}
+
+#menu ul {
+    list-style: none;
+    width: 100%;
+}
+
+#menu li {
+    float: left;
+    position: relative;
+    width: auto;
+}
+
+#menu a {
+    background: rgb(10, 3, 37);
+    color: #FFFFFF;
+    display: block;
+    font: bold 12px sans-serif;
+    height: 20px;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    border-right: 1px solid white;
+}
+
+#menu li:hover a {
+    background: #120b6d;
+}
+
+#menu li ul li:hover a {
+    background: rgb(10, 3, 37);
+    border-right: 1px solid #4b43e7;
+}
+
+.sous-menu {
+    left: 0;
+    opacity: 1;
+    position: absolute;
+    top: 35px;
+    visibility: hidden;
+}
+
+li:hover ul.sous-menu {
+    top: 40px;
+    visibility: visible;
+}
+
+.sous-menu li {
+    float: none;
+    width: 100%;
+    border-top: 1px solid white;
+}
+
+.sous-menu a {
+    background-color: #000000;
+}
