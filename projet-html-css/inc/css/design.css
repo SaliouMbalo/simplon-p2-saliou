@@ -1,0 +1,147 @@
+body {
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+	background-color:;
+	width: ;
+	height: ;
+	}
+.entete {
+	background-color:rgb(17, 17, 160);
+	color: white;
+		 }
+#header{
+    margin-top:0px;
+    height: 120px;
+    background-image:url(elements/bg_entete.png)
+		
+     }
+     
+#logo{
+    margin-left: 0px;
+    width: 680px;
+    height: 90px;
+    float: left;
+	background-color: #10459A;
+	 }
+#form1{
+    height:90px;
+    background-color:#10459A;
+	 }
+#formulaire1{
+    margin-left: 100px; 
+	 }
+
+	
+#block {
+    margin-left: 0px;
+    width: 780px;
+    height: 482px;
+    float: left;
+	background-color:#E8ECF4;
+     }
+#image1 {
+    margin-top: 100px;
+    align-self: center;
+    width: px;
+    height: px;
+    float:;
+     }
+     
+#formulaire {
+    height:482px;
+    background-color: #E8ECF4;
+	 }
+#footer{
+    margin-right: 0px;
+    width:100%;
+    height: 53px;
+    float: right;
+	background-color:white;
+     }
+#img{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    text-indent: 150px;
+}
+#image_bloc{
+    text-indent: 150px;
+    margin-left:;
+    margin-right: ;
+    margin-top:10px;
+    margin-bottom: ;
+	 }
+#text{
+    font-size: 10px;
+     }
+.info_compte{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+     }
+.date{
+    width: 65px;
+    border-radius: 5px;	
+    height: 25px;
+     }
+.rond{
+    border-radius: 5px;	
+    height: 25px;
+    width: 375px;
+    }
+.rond1{
+    border-radius: 5px;	
+    height: 25px;
+    width:175px;
+    }
+.rond2{
+    border-radius: 5px;	
+    height: 35px;
+    width:200px;
+    }
+.info_oubli{
+    color: rgb(74, 175, 182);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+     }
+.bold{
+    font-weight: 350;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     }
+#numero_email{
+    font-size: 17px;
+    }
+#prenom{
+    font-size: 17px;
+    }
+#nom_famille{
+    font-size: 17px;
+    }
+#nouveau_mdp{
+    font-size: 17px;
+    }
+#facebook{
+    margin-top: 32px;
+    text-indent: 150px;
+    color:#10459A;
+    font-weight: bold;
+    font-size: 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     }
+#inscription{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     }
+#footer1{
+    margin-left: 0px;
+    width: 50px;
+    float: left;
+     }
+#footer2{
+    float: right;
+    width: 1150px;
+    font-size: 12px;
+     }
+#creer_page{
+    font-size: 12px;
+     }
